@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: a85be85bda7e3ad40ac615ff57d4d26c
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 2713029544535736892
+    second: Armature|noprey
+  - first:
+      74: -4349350815387884202
+    second: BigPray
+  - first:
+      74: 4321186823545157914
+    second: SmallPray
+  - first:
+      74: -4349350815387884202
+    second: Armature|pray
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SmallPray
+      takeName: Armature|noprey
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|pray
+      takeName: Armature|pray
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 605
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: bind_office_m_boss_hips01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_l_thigh01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_r_thigh01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_l_calf01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_r_calf01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_l_foot01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_r_foot01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_spine_a01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_spine_b01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_neck01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_head01
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_l_shoulder01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_r_shoulder01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_l_upperarm01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_r_upperarm01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_l_forearm01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_r_forearm01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_m_boss_l_hand01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: be_office_m_boss_r_hand01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bind_office_m_boss_spine_c01
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Pray(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Pray(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_boss_hips01
+      parentName: Armature
+      position: {x: -0, y: 0.37310544, z: 0.010548162}
+      rotation: {x: -0, y: 0.0000000051222746, z: 0.000000002910383, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_boss_spine_a01
+      parentName: bind_office_m_boss_hips01
+      position: {x: -0, y: 0.018444786, z: -0.0012541431}
+      rotation: {x: -0.03393854, y: 4.440892e-16, z: -2.220446e-16, w: 0.9994239}
+      scale: {x: 1, y: 0.9999996, z: 0.9999996}
+    - name: bind_office_m_boss_spine_b01
+      parentName: bind_office_m_boss_spine_a01
+      position: {x: -0, y: 0.021568608, z: 0.0000000017881393}
+      rotation: {x: -0.000000052154064, y: -7.535893e-18, z: 2.2191666e-16, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: bind_office_m_boss_spine_c01
+      parentName: bind_office_m_boss_spine_b01
+      position: {x: -0, y: 0.024649806, z: 0.0000000017881393}
+      rotation: {x: 0.000000037252903, y: 7.535897e-18, z: -2.2191668e-16, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: bind_office_m_boss_neck01
+      parentName: bind_office_m_boss_spine_c01
+      position: {x: -0, y: 0.027731027, z: 0.0000000035762786}
+      rotation: {x: 0.033938557, y: -4.2901748e-16, z: -2.2178877e-16, w: 0.9994239}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: bind_office_m_boss_head01
+      parentName: bind_office_m_boss_neck01
+      position: {x: -0, y: 0.0057600783, z: 0.0005061393}
+      rotation: {x: -0.0000000037252903, y: 2.646978e-23, z: 4.440892e-16, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: be_office_m_boss_head01
+      parentName: bind_office_m_boss_head01
+      position: {x: -0, y: 0.121179156, z: 0.01064803}
+      rotation: {x: -0, y: -0, z: 9.8607613e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: be_office_m_boss_head01_end
+      parentName: be_office_m_boss_head01
+      position: {x: -0, y: 0.12164608, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_boss_l_shoulder01
+      parentName: bind_office_m_boss_spine_c01
+      position: {x: -0.021365255, y: 0.024665112, z: -0.00026586174}
+      rotation: {x: 0.53212893, y: -0.46476576, z: 0.53882366, w: 0.45880356}
+      scale: {x: 1.0000002, y: 0.9999995, z: 1.0000007}
+    - name: bind_office_m_boss_l_upperarm01
+      parentName: bind_office_m_boss_l_shoulder01
+      position: {x: 0.00007836461, y: 0.04461943, z: 0.00015458395}
+      rotation: {x: -0.050698135, y: -0.098325185, z: 0.0019560459, w: 0.9938602}
+      scale: {x: 0.99999976, y: 1.0000006, z: 0.9999994}
+    - name: bind_office_m_boss_l_forearm01
+      parentName: bind_office_m_boss_l_upperarm01
+      position: {x: -0.0001328802, y: 0.13495424, z: -0.00011006832}
+      rotation: {x: -0.019330395, y: 0.0027598587, z: -0.03744417, w: 0.999108}
+      scale: {x: 1.0000017, y: 0.9999992, z: 1.0000005}
+    - name: be_office_m_boss_l_hand01
+      parentName: bind_office_m_boss_l_forearm01
+      position: {x: 0.0000000011920929, y: 0.13205834, z: 0.000000014305114}
+      rotation: {x: -0.00000005681067, y: -0.000000057392747, z: -0.000000052772513,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: be_office_m_boss_l_hand01_end
+      parentName: be_office_m_boss_l_hand01
+      position: {x: -0, y: 0.13205825, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_boss_r_shoulder01
+      parentName: bind_office_m_boss_spine_c01
+      position: {x: 0.021365255, y: 0.024657303, z: -0.00015159338}
+      rotation: {x: -0.5336378, y: -0.463512, z: 0.5374894, w: -0.45988318}
+      scale: {x: 1.0000004, y: 0.99999964, z: 1.0000005}
+    - name: bind_office_m_boss_r_upperarm01
+      parentName: bind_office_m_boss_r_shoulder01
+      position: {x: 0.00007842727, y: 0.04457506, z: -0.00015441529}
+      rotation: {x: 0.051503617, y: -0.10602207, z: 0.0066219573, w: -0.993007}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1}
+    - name: bind_office_m_boss_r_forearm01
+      parentName: bind_office_m_boss_r_upperarm01
+      position: {x: -0.00013485432, y: 0.13518544, z: 0.000108134744}
+      rotation: {x: -0.019607684, y: -0.0030430923, z: 0.03807181, w: 0.99907804}
+      scale: {x: 1.0000001, y: 0.9999991, z: 1.0000006}
+    - name: be_office_m_boss_r_hand01
+      parentName: bind_office_m_boss_r_forearm01
+      position: {x: 0.0000000023841857, y: 0.13211888, z: 0.000000019073486}
+      rotation: {x: -0, y: -0.000000015716067, z: 0.000000041001837, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: be_office_m_boss_r_hand01_end
+      parentName: be_office_m_boss_r_hand01
+      position: {x: -0, y: 0.13211884, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_boss_l_thigh01
+      parentName: bind_office_m_boss_hips01
+      position: {x: -0.040392015, y: -0.010215035, z: -0.0007830763}
+      rotation: {x: 0.00000020260035, y: 0.03313035, z: 0.99945104, w: -0.000004564081}
+      scale: {x: 1.0000001, y: 1.0000031, z: 1.0000025}
+    - name: bind_office_m_boss_l_calf01
+      parentName: bind_office_m_boss_l_thigh01
+      position: {x: -0.0000000011858355, y: 0.17013831, z: 0.00000000566676}
+      rotation: {x: -0.076250084, y: 0.00015838654, z: -0.0020756305, w: 0.9970866}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1.0000008}
+    - name: bind_office_m_boss_l_foot01
+      parentName: bind_office_m_boss_l_calf01
+      position: {x: 0.0000000014156103, y: 0.17059077, z: -0.000000015117694}
+      rotation: {x: 0.49930292, y: -0.07372757, z: 0.0426939, w: 0.86222863}
+      scale: {x: 1.000001, y: 0.99999934, z: 1.0000004}
+    - name: be_office_m_boss_l_toes01
+      parentName: bind_office_m_boss_l_foot01
+      position: {x: 0.010000007, y: 0.050632555, z: 0.008330994}
+      rotation: {x: 0.30058926, y: -0.16666932, z: 0.05343591, w: 0.93755645}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000006}
+    - name: be_office_m_boss_l_toes01_end
+      parentName: be_office_m_boss_l_toes01
+      position: {x: -0, y: 0.05227885, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bind_office_m_boss_r_thigh01
+      parentName: bind_office_m_boss_hips01
+      position: {x: 0.040392015, y: -0.010472527, z: -0.0009982991}
+      rotation: {x: -0.00000018012013, y: 0.03330814, z: 0.99944514, w: 0.000004564647}
+      scale: {x: 1.0000004, y: 1.000011, z: 1.0000087}
+    - name: bind_office_m_boss_r_calf01
+      parentName: bind_office_m_boss_r_thigh01
+      position: {x: -0.0000000035986885, y: 0.17014238, z: -0.0000000019295734}
+      rotation: {x: -0.07284662, y: -0.00015189731, z: 0.0020753213, w: 0.997341}
+      scale: {x: 1, y: 0.9999992, z: 1.0000012}
+    - name: bind_office_m_boss_r_foot01
+      parentName: bind_office_m_boss_r_calf01
+      position: {x: 0.0000000055041163, y: 0.17048913, z: -0.000000010931399}
+      rotation: {x: 0.4896606, y: 0.0767785, z: -0.04334018, w: 0.86744416}
+      scale: {x: 1.0000006, y: 0.9999998, z: 1.0000002}
+    - name: be_office_m_boss_r_toes01
+      parentName: bind_office_m_boss_r_foot01
+      position: {x: -0.009999984, y: 0.049699493, z: 0.008510875}
+      rotation: {x: 0.3069531, y: 0.15896428, z: -0.05208107, w: 0.93690866}
+      scale: {x: 0.9999996, y: 1.0000008, z: 1.0000001}
+    - name: be_office_m_boss_r_toes01_end
+      parentName: be_office_m_boss_r_toes01
+      position: {x: -0, y: 0.051405773, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mesh_office_m_boss01
+      parentName: Pray(Clone)
+      position: {x: -8.9406965e-10, y: -3.7253003e-11, z: 6.705522e-10}
+      rotation: {x: 0.00000008146034, y: -0.0000000069849198, z: 0.000000007334164,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

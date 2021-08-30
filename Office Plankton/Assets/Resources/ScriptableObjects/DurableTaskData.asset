@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b00f735c49d1eab45aa9dba069e43ac6, type: 3}
+  m_Name: DurableTaskData
+  m_EditorClassIdentifier: 
+  DurableTasks:
+  - Type: 1
+    CarryInfos:
+    - Name: Broken PC
+      Description: "I press something and PC now didn't work. \nFix it!"
+    - Name: Virus
+      Description: "I guess i download virus. \nHelp me!"
+    - Name: PC problems
+      Description: "I had problems with my PC. \nExplain to me what's wrong"
+    - Name: I have Linux
+      Description: Help me! I have Linux!
+  - Type: 2
+    CarryInfos:
+    - Name: Empty cooler
+      Description: We run out of water! Replace cooler to another!
+    - Name: Hole in cooler
+      Description: Someone made a hole in the cooler. Replace it!
+    - Name: Water problems
+      Description: There is no warm water in the cooler. Fix it

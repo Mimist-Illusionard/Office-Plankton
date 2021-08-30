@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bffd97b65c8467443a194ad432de8c54, type: 3}
+  m_Name: CarryTaskData
+  m_EditorClassIdentifier: 
+  CarryTasks:
+  - Type: 1
+    TaskObjects:
+    - {fileID: 4551835271905274156, guid: 16c63b5a6552263478affaa3909e954e, type: 3}
+    CarryInfos:
+    - Name: Lost documents
+      Description: "I lost my documents. \nFind it!"
+    - Name: Contract document
+      Description: "Somewhere i lost my contract. \nCan you find it?"
+    - Name: Strange papers
+      Description: Oh no! Can you find this papers?
+  - Type: 2
+    TaskObjects:
+    - {fileID: 7266608906824432095, guid: 5155d0aef985ff248b5be9349309fb21, type: 3}
+    - {fileID: 8932963813814393061, guid: a2541c3370de62f4fa309d692dea6b5b, type: 3}
+    CarryInfos:
+    - Name: PIZZA TIME
+      Description: I NEED PIZZA. FASTER AS YOU CAN!
+    - Name: Pizza order
+      Description: Heyo! I order pizza today. Please bring me it.
+  - Type: 3
+    TaskObjects:
+    - {fileID: 1724162088609394564, guid: d4af970022cc82146ad8c92adb7ad3ba, type: 3}
+    - {fileID: 7205336644597615226, guid: 0684ecd6b757da148b242e4b0f20382f, type: 3}
+    CarryInfos:
+    - Name: Coffie time!
+      Description: I wanna take a break. Can you bring me coffie?
+    - Name: Bad coffie
+      Description: My coffie is awful. I need another!
+  - Type: 4
+    TaskObjects:
+    - {fileID: 3365509870626639300, guid: 0d2ca174bcd4aea4fb92c886c5ab5a1e, type: 3}
+    CarryInfos:
+    - Name: Strange man
+      Description: "In our office we have a strange man. \nI didn't like him!"
+    - Name: Sectarians
+      Description: "We have sectarians. \nThrow holy water to their leader!"
+    - Name: Holy mission
+      Description: Throw holy water to sectarians.
